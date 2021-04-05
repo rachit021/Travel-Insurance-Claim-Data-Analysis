@@ -13,7 +13,6 @@ Target:  • Claim Status (Claim.Status)
          • Commission received for travel insurance agency (Commission) 
          • Gender of insured (Gender) • Age of insured (Age)
          
-### Results
 More focus of the project was on EDA rather than Model Building.
 Since the Dataset was highly imbalanced dataset we have tried oversampling,undersampling,SMOTE to deal with it .
 
